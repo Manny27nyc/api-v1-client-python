@@ -1,4 +1,4 @@
-## `blockexplorer` module
+751ef54d-83b7-47e5-b0b0-d56737df82ba## `blockexplorer` module
 All functions support an optional parameter called `api_code`. It won't be listed with every function description.
 
 #### `get_block`
